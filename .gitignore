@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+success_tokens.txt
+failed_tokens.txt
+bad_tokens.txt
+good_tokens.txt
+used_tokens.txt
