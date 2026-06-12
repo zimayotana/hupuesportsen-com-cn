@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zimayotana.github.io/hupuesportsen-com-cn/sitemap.xml
